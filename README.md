@@ -11,14 +11,11 @@ URL:        https://github.com/MarkOlsonMN/python-challenge
 
 ## Code Source/Location within this Repo
 ReadMe :                         python-challenge/README.md  
-    
-PyBank :                         python-challenge/PyBank  
+PyBank ...  
   Python Script :                python-challenge/PyBank/main.py  
-  Resources :                    python-challenge/PyBank/Resources  
-  Analysis :                     python-challenge/PyBank/Analysis  
-  
-PyPoll :                         python-challenge/PyPoll  
+  Resources (data) :             python-challenge/PyBank/Resources/budget_data.csv  
+  Analysis (results) :           python-challenge/PyBank/Analysis/PyBank_Analysis.txt  
+PyPoll ...  
   Python Script :                python-challenge/PyPoll/main.py  
-  Resources :                    python-challenge/PyPoll/Resources  
-  Analysis :                     python-challenge/PyPoll/Analysis  
-  
+  Resources (data) :             python-challenge/PyPoll/Resources/election_data.csv  
+  Analysis (results) :           python-challenge/PyPoll/Analysis/PyPoll_Analysis.txt  
