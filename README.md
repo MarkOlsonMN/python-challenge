@@ -12,10 +12,10 @@ URL:        https://github.com/MarkOlsonMN/python-challenge
 ## Code Source/Location within this Repo
 ReadMe :                         python-challenge/README.md  
 PyBank ...  
-&nbsp;&nbsp;Python Script (code) :       python-challenge/PyBank/main.py  
-&nbsp;&nbsp;Resources (data) :           python-challenge/PyBank/Resources/budget_data.csv  
-&nbsp;&nbsp;Analysis (results) :         python-challenge/PyBank/Analysis/PyBank_Analysis.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;Python Script (code) :  python-challenge/PyBank/main.py  
+&nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :      python-challenge/PyBank/Resources/budget_data.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;Analysis (results) :    python-challenge/PyBank/Analysis/PyBank_Analysis.txt  
 PyPoll ...  
-&nbsp;&nbsp;Python Script (code)         python-challenge/PyPoll/main.py  
-&nbsp;&nbsp;Resources (data) :           python-challenge/PyPoll/Resources/election_data.csv  
-&nbsp;&nbsp;Analysis (results) :         python-challenge/PyPoll/Analysis/PyPoll_Analysis.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;Python Script (code)    python-challenge/PyPoll/main.py  
+&nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :      python-challenge/PyPoll/Resources/election_data.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;Analysis (results) :    python-challenge/PyPoll/Analysis/PyPoll_Analysis.txt  
