@@ -10,7 +10,7 @@ Date:       04/18/2024
 URL:        https://github.com/MarkOlsonMN/python-challenge  
 
 ## Code Source/Location within this Repo
-ReadMe :                         python-challenge/README.md  
+ReadMe :    python-challenge/README.md  
 PyBank ...  
 &nbsp;&nbsp;&nbsp;&nbsp;Python Script (code) :  python-challenge/PyBank/main.py  
 &nbsp;&nbsp;&nbsp;&nbsp;Resources (data) :      python-challenge/PyBank/Resources/budget_data.csv  
